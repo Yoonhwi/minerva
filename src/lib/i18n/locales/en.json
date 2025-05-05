@@ -5,5 +5,19 @@
     "delete": "Delete",
     "cancel": "Cancel",
     "close": "Close"
+  },
+  "Auth": {
+    "signin": "Sign in",
+    "signinDescription": "Sign in to your account",
+    "signup": "Sign up",
+    "signupDescription": "Sign up to create an account.",
+    "signout": "Sign out",
+    "email": "Email",
+    "emailDescription": "This is your email address for signin.",
+    "password": "Password",
+    "checkPassword": "Check Password",
+    "username": "Username",
+    "usernameDescription": "This is your public display name.",
+    "join": "Join"
   }
 }

@@ -5,5 +5,19 @@
     "delete": "삭제",
     "cancel": "취소",
     "close": "닫기"
+  },
+  "Auth": {
+    "signin": "로그인",
+    "signinDescription": "계정에 로그인하세요.",
+    "signup": "회원가입",
+    "signupDescription": "회원가입하여 계정을 만드세요.",
+    "signout": "로그아웃",
+    "email": "이메일",
+    "emailDescription": "로그인을 위한 이메일 주소입니다.",
+    "password": "비밀번호",
+    "checkPassword": "비밀번호 확인",
+    "username": "사용자 이름",
+    "usernameDescription": "다른 사용자에게 표시되는 이름입니다.",
+    "join": "가입"
   }
 }
