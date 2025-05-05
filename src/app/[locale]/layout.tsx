@@ -1,9 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import { hasLocale } from "next-intl";
+import { hasLocale, Locale } from "next-intl";
 import { routing } from "@/lib/i18n/routing";
 import { notFound } from "next/navigation";
-import { Locale } from "@/lib/i18n/locale";
 import Providers from "../providers/providers";
 
 const geistSans = Geist({
